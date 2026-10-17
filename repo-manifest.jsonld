@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/whylabs/whylogs/commit/976bc4c15ca1d4a0199360b8d7708b63e4adaa6d",
       "git:hexsha": "976bc4c15ca1d4a0199360b8d7708b63e4adaa6d",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/whylabs/whylogs/commit/e55999c886f5e8e46bce056f3cbb483c0de5eba7",
